@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/dB7050w/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mr. Raju",
+      "author_img": "https://i.ibb.co/VTDZN90/boy1.png",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 10,
+      "hashtags": ["fiction", "classics"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/dB7050w/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mina Mostofa",
+      "author_img": "https://i.ibb.co/xGySDrm/girl2.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 12,
+      "hashtags": ["scifi", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/dB7050w/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Samantha Lee",
+      "author_img": "https://i.ibb.co/wd2BqyK/girl1.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 4,
+      "hashtags": ["romance",  "mystery"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/dB7050w/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mrs. Setara",
+      "author_img": "https://i.ibb.co/k0JSx2w/boy2.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 5,
+      "hashtags": ["timetravel", "adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/dB7050w/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mrs. Setara",
+      "author_img": "https://i.ibb.co/VTDZN90/boy1.png",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 18 ,
+      "hashtags": ["fantasy", "magic"]
+    }
+  ]
+  
